@@ -106,6 +106,9 @@ Adicione abaixo as imagens das principais telas do aplicativo:
 
 ---
 
+## Link APK
+- https://flutlab.io/apk/aHR0cHM6Ly9hcGkuZmx1dGxhYi5pby9wcm9qZWN0cy8yNTQzMTMyL2Rvd25sb2FkLWFwcD9rZXk9NHc3ZnJjbTZvMDZ3d3hiM21sY24mdGFyZ2V0PWFuZHJvaWQtYXJtNjQ=
+
 ## 👨‍💻 Autor
 
 Desenvolvido por [Gustavo Rodrigues Soares Costa] – 2025  
