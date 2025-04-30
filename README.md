@@ -32,7 +32,7 @@ Um aplicativo Flutter simples e funcional para conversão de moedas em tempo rea
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/conversor-moedas-flutter.git
+git clone https://github.com/gustavorsc/conversor-moedas-flutter.git
 cd conversor-moedas-flutter
 ```
 
@@ -89,24 +89,25 @@ O aplicativo exibe um "cartão de crédito digital" na parte superior da tela co
 Adicione abaixo as imagens das principais telas do aplicativo:
 
 ### Tela de Cadastro
-![alt text](image.png)
+![tela de cadastro](assets/images/cadastro.png)
 ### Tentativa de Cadastro com email já utilizado
-![alt text](image-1.png)
+![tentativa cadastro erro](assets/images/cadastro_erro.png)
 
 ### Tela de Login
-![alt text](image-3.png)
+![tela login](assets/images/login.png)
 ### Aviso de senha ou email incorreto
-![alt text](image-2.png)
+![tela login erro](assets/images/login_incorreto.png)
 
 ### Tela Home (Cartão Digital)
-![alt text](image-4.png)
+![tela home](assets/images/home.png)
 ### Tela Home com a conversão executada
-![alt text](image-5.png)
-![alt text](image-6.png)
+![tela conversão 1](assets/images/conversor1.png)
+![tela conversão 1](assets/images/conversor2.png)
 
 ---
 
 ## 👨‍💻 Autor
 
 Desenvolvido por [Gustavo Rodrigues Soares Costa] – 2025  
-Entre em contato: [seuemail@dominio.com]
+Estudante do 5º Semestre de Engenharia de Software - UniFACEF
+Entre em contato: [gugwqh@gmail.com]
