@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265146762202",
+    "project_id": "conversor-flutter-1f587",
+    "storage_bucket": "conversor-flutter-1f587.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265146762202:android:58d554662fac7035ea76e3",
+        "android_client_info": {
+          "package_name": "com.example.conversor_moedas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbmHx1Jv_ZrFlC857x7fCt9LNwCtN4waY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
